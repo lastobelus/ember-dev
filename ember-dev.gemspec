@@ -27,6 +27,8 @@ Gem::Specification.new do |gem|
   gem.add_dependency "execjs"
   gem.add_dependency "aws-sdk"
   gem.add_dependency "puma"
+  gem.add_dependency "activesupport"
+  gem.add_dependency "thor"
 
   gem.add_development_dependency "minitest", '~> 5.0.0'
 end

@@ -1,0 +1,5 @@
+// ==========================================================================
+// Project:   <%= project_name %>
+// Copyright: Copyright <%= Time.now.year %> <%= options.organization %> and contributors.
+// License:   Licensed under MIT license (see license.js)
+// ==========================================================================
